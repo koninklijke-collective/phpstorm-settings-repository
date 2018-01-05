@@ -10,6 +10,7 @@
       <mapping pattern="gulp" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
+      <mapping ext="serialized" type="PLAIN_TEXT" />
       <removed_mapping ext="ts" type="TypeScript" />
       <mapping ext="ts" type="TypoScript File" />
       <mapping ext="xlf" type="XML" />

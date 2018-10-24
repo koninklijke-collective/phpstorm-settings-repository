@@ -2,21 +2,19 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
-      <mapping ext="install" type="PHP" />
+      <mapping ext="engine" type="PHP" />
       <mapping ext="test" type="PHP" />
       <mapping ext="profile" type="PHP" />
       <mapping ext="theme" type="PHP" />
-      <mapping ext="engine" type="PHP" />
-      <mapping pattern="gulp" type="PLAIN_TEXT" />
+      <mapping ext="install" type="PHP" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
+      <mapping pattern="gulp" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="serialized" type="PLAIN_TEXT" />
-      <mapping ext="docker/dockerfile" type="TSLint" />
-      <removed_mapping ext="ts" approved="true" type="TypeScript" />
-      <mapping ext="ts" type="TypoScript File" />
-      <mapping ext="tsconfig" type="TypoScript File" />
       <mapping ext="xlf" type="XML" />
+      <mapping ext="docker/dockerfile" type="TSLint" />
+      <mapping ext="tsconfig" type="TypoScript File" />
     </extensionMap>
   </component>
 </application>

@@ -12,19 +12,19 @@
     <interpreters>
       <interpreter id="fc29fa9c-90f4-4995-abcb-45e9a23735d8" name="PHP 5.6" home="/usr/local/Cellar/php@5.6/5.6.38_1/bin/php" debugger_id="php.debugger.XDebug" />
       <interpreter id="eca903cf-b2a2-46a7-affd-503638704ac5" name="PHP 7.0" home="/usr/local/Cellar/php@7.0/7.0.32_1/bin/php" debugger_id="php.debugger.XDebug" />
-      <interpreter id="644884fb-87bd-4227-b9b8-6d4c7da68040" name="PHP 7.1" home="/usr/local/Cellar/php@7.1/7.1.29/bin/php" debugger_id="php.debugger.XDebug" />
-      <interpreter id="42547ddc-a292-4591-8684-6453c4fa3e91" name="PHP 7.3" home="/usr/local/Cellar/php/7.3.5/bin/php" debugger_id="php.debugger.XDebug" />
-      <interpreter id="7ef583f7-b666-47d5-b217-28c96783ce24" name="PHP 7.2" home="/usr/local/Cellar/php@7.2/7.2.20/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="644884fb-87bd-4227-b9b8-6d4c7da68040" name="PHP 7.1" home="/usr/local/Cellar/php@7.1/7.1.32/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="42547ddc-a292-4591-8684-6453c4fa3e91" name="PHP 7.3" home="/usr/local/Cellar/php/7.3.9/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="7ef583f7-b666-47d5-b217-28c96783ce24" name="PHP 7.2" home="/usr/local/Cellar/php@7.2/7.2.22/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7.3">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/7.3.5/bin/php-cgi" php_cli="/usr/local/Cellar/php/7.3.5/bin/php" path_separator=":" version="7.3.5">
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/7.3.9/bin/php-cgi" php_cli="/usr/local/Cellar/php/7.3.9/bin/php" path_separator=":" version="7.3.9">
           <additional_php_ini>/usr/local/etc/php/7.3/conf.d/ext-opcache.ini</additional_php_ini>
           <configuration_file>/usr/local/etc/php/7.3/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php/7.3.5/share/php/pear" />
+            <configuration_option name="include_path" value=".:/usr/local/Cellar/php/7.3.9/share/php/pear" />
           </configuration_options>
           <debuggers />
           <loaded_extensions>
@@ -97,11 +97,11 @@
         </phpinfo>
       </interpreter>
       <interpreter name="PHP 7.1">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@7.1/7.1.29/bin/php-cgi" php_cli="/usr/local/Cellar/php@7.1/7.1.29/bin/php" path_separator=":" version="7.1.29">
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@7.1/7.1.32/bin/php-cgi" php_cli="/usr/local/Cellar/php@7.1/7.1.32/bin/php" path_separator=":" version="7.1.32">
           <additional_php_ini>/usr/local/etc/php/7.1/conf.d/ext-opcache.ini</additional_php_ini>
           <configuration_file>/usr/local/etc/php/7.1/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php@7.1/7.1.29/share/php@7.1/pear" />
+            <configuration_option name="include_path" value=".:/usr/local/Cellar/php@7.1/7.1.32/share/php@7.1/pear" />
           </configuration_options>
           <debuggers />
           <loaded_extensions>
@@ -174,11 +174,11 @@
         </phpinfo>
       </interpreter>
       <interpreter name="PHP 7.2">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@7.2/7.2.20/bin/php-cgi" php_cli="/usr/local/Cellar/php@7.2/7.2.20/bin/php" path_separator=":" version="7.2.20">
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@7.2/7.2.22/bin/php-cgi" php_cli="/usr/local/Cellar/php@7.2/7.2.22/bin/php" path_separator=":" version="7.2.22">
           <additional_php_ini>/usr/local/etc/php/7.2/conf.d/ext-opcache.ini</additional_php_ini>
           <configuration_file>/usr/local/etc/php/7.2/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php@7.2/7.2.20/share/php@7.2/pear" />
+            <configuration_option name="include_path" value=".:/usr/local/Cellar/php@7.2/7.2.22/share/php@7.2/pear" />
           </configuration_options>
           <debuggers />
           <loaded_extensions>

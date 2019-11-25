@@ -1,6 +1,6 @@
 <templateSet group="PHP">
   <template name="tme" value="$TIMESTAMP$" description="current timestamp" toReformat="false" toShortenFQNames="true">
-    <variable name="TIMESTAMP" expression="timestamp()" defaultValue="" alwaysStopAt="true" />
+    <variable name="TIMESTAMP" expression="groovyScript(&quot;(int) (System.currentTimeMillis() / 1000L);&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
     </context>

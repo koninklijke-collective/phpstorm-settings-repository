@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Controller*" />
+    <option name="FILE_MASK" value="ext_localconf.php" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -23,5 +23,6 @@
     <mask>*.js</mask>
     <mask>*.typoscript</mask>
     <mask>*Controller*</mask>
+    <mask>ext_localconf.php</mask>
   </component>
 </application>

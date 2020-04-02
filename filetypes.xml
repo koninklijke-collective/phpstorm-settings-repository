@@ -17,6 +17,7 @@
       <mapping ext="gz" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="git-hooks/pre-commit/phpcs_pre-commit" type="Shell Script" />
       <mapping pattern="phpcs_pre-commit" type="Shell Script" />
       <mapping ext="xlf" type="XML" />

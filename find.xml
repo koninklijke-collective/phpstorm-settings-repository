@@ -23,5 +23,6 @@
     <mask>*Controller*</mask>
     <mask>ext_localconf.php</mask>
     <mask>*.js</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>

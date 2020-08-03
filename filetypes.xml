@@ -1,23 +1,23 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="install" type="PHP" />
+      <mapping ext="test" type="PHP" />
       <mapping ext="engine" type="PHP" />
       <mapping ext="profile" type="PHP" />
-      <mapping ext="test" type="PHP" />
       <mapping ext="theme" type="PHP" />
-      <mapping ext="install" type="PHP" />
-      <mapping pattern="FIRST_INSTALL" type="PLAIN_TEXT" />
-      <mapping pattern="gulp" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping pattern="gulp" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
-      <mapping ext="j2" type="PLAIN_TEXT" />
+      <mapping pattern="FIRST_INSTALL" type="PLAIN_TEXT" />
       <mapping ext="serialized" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
+      <mapping ext="msg" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
-      <mapping ext="msg" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="j2" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="git-hooks/pre-commit/phpcs_pre-commit" type="Shell Script" />
       <mapping pattern="phpcs_pre-commit" type="Shell Script" />
       <mapping ext="xlf" type="XML" />

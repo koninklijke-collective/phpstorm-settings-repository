@@ -9,6 +9,7 @@
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="gulp" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
+      <mapping pattern=".babelrc  " type="PLAIN_TEXT" />
       <mapping pattern="FIRST_INSTALL" type="PLAIN_TEXT" />
       <mapping ext="serialized" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />

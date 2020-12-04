@@ -1,17 +1,17 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="install" type="PHP" />
       <mapping ext="test" type="PHP" />
       <mapping ext="engine" type="PHP" />
       <mapping ext="profile" type="PHP" />
       <mapping ext="theme" type="PHP" />
-      <mapping pattern="config" type="PLAIN_TEXT" />
-      <mapping pattern="gulp" type="PLAIN_TEXT" />
-      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="redis/redis-cli" type="PLAIN_TEXT" />
       <mapping pattern=".babelrc  " type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="FIRST_INSTALL" type="PLAIN_TEXT" />
+      <mapping pattern="gulp" type="PLAIN_TEXT" />
+      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping ext="serialized" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
@@ -22,19 +22,18 @@
       <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="git-hooks/pre-commit/phpcs_pre-commit" type="Shell Script" />
       <mapping pattern="redis-cli" type="Shell Script" />
       <mapping pattern="phpcs_pre-commit" type="Shell Script" />
       <mapping ext="xlf" type="XML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
-      <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="properties" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping ext="ts" approved="true" type="TypoScript File" />
       <mapping ext="docker/dockerfile" type="TSLint" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>

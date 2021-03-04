@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="composer.json" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -16,7 +15,6 @@
     <mask>*.ts</mask>
     <mask>*ViewHelper.php</mask>
     <mask>*.sql</mask>
-    <mask>*.typoscript</mask>
     <mask>*Controller*</mask>
     <mask>ext_localconf.php</mask>
     <mask>*.yaml</mask>
@@ -24,5 +22,6 @@
     <mask>*.php</mask>
     <mask>*Controller.php</mask>
     <mask>composer.json</mask>
+    <mask>*.typoscript</mask>
   </component>
 </application>

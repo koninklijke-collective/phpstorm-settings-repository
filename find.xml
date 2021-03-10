@@ -24,5 +24,6 @@
     <mask>composer.json</mask>
     <mask>*.typoscript</mask>
     <mask>Services.*</mask>
+    <mask>*Command.php</mask>
   </component>
 </application>
